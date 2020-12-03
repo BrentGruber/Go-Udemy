@@ -1,0 +1,9 @@
+1. Create your own type with underlying type int
+2. Create a variable with your type using identifier x
+    * use var keyword
+3. in func main
+    * print out the value of x
+    * print the type of x
+    * assign 42 to x using the "=" operator
+    * print out the value of x again
+    * print out the type of x again

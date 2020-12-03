@@ -1,0 +1,7 @@
+1. assign values to the 3 variables with package level scope
+    * identifier: x, value: 42
+    * identifier: y, value: James Bond
+    * identifier: z, value: true
+2. in func main
+    * us fmt.Sprintf to print all of the values to a single string, assign to variable, s, using short declaration operator
+    * print s

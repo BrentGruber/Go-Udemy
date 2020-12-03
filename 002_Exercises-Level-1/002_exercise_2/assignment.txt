@@ -1,0 +1,7 @@
+1. Use var to declare three variables with package level scope
+    * identifier x type int
+    * identifier y type string
+    * identifier z type bool
+2. in func main
+    * print out values for each identifier
+    * the compiler assigned values to the variables what are these values called

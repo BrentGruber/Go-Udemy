@@ -1,0 +1,7 @@
+1. Using short declaration operator assign values
+    * 42 to x
+    * James Bond to y
+    * true to z
+2. print all the variables
+    * First all three in one print statement
+    * Second a print statement per variable

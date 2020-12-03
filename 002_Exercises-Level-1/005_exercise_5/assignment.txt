@@ -1,0 +1,7 @@
+# Building from exercise 4
+
+1. create variable y at package level scope with var keyword, should be same type as your custom type of variable x
+2. in func main
+    * convert type of value stored in x to underlying type
+    * use "=" operator to assign that to y
+    * print value and type of y
